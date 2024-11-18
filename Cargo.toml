@@ -1,5 +1,5 @@
 [package]
-name = "sqllogs-agg01"
+name = "sqllogs_convert_parquet"
 version = "0.1.0"
 edition = "2021"
 
